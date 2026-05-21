@@ -7,7 +7,7 @@ This is a [Probot](https://probot.github.io) application built for the GirlScrip
 1. **Contributor Greetings & Triage**
    - When a new issue is opened, the bot greets the user with issue guidelines.
    - It asks the contributor to specify the task level (e.g., **web development task** or **mobile task**).
-   - If the issue is a web task, the bot automatically tags a designated mentor (`@Gooichand`) for review.
+   - If the issue is a web task, the bot automatically tags a designated mentor (`for example: @Gooichand`) for review.
 
 2. **Assignment Rules Explanation**
    - When a user comments asking to work on an issue (using keywords like "assign", "can I work", "interested"), the bot automatically replies explaining that assignments are strictly **first come, first serve**.
